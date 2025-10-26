@@ -1,0 +1,7 @@
+.vscode/
+venv
+.env
+__pycache__/
+jailbreak.db
+*.pyc
+.DS_Store
